@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="~/js/homepage.js"></script>
+<div class="row">
+    <div id="gamesContainer" class="col-md-8">
+        <!--<script>LoadSoccerGames("EnglandOne");</script>-->
+        <script>LoadAllSoccerLeagues();</script>
+    </div>
+    <div id="betslip" class="betslip close">
+        <div class="row">
+            <button onclick="ToggleBetslip();">Close</button>
+        </div>
+        <div id="bets" class="row">
+
+        </div>
+        <div id="bet" class="row">
+            <p>Total odds: <span id="totalOdds"></span></p>
+            <label>Bet: €<input id="betAmount" type="number" step="0.1" onkeyup="calculatePayout()"/></label>
+        </div>
+        <div id="payout">
+            <p>Payout: € <span id="payoutAmount">0.0</span></p>
+        </div>
+        <div>
+            <button class="btn btn-primary" type="submit">Place Bet</button>
+        </div>
+    </div>
+</div>

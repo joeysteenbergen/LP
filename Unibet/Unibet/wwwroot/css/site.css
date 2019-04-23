@@ -1,0 +1,74 @@
+﻿nav {
+    height:10vh !important;
+}
+
+.custom_nav_image
+{
+    height:100%;
+}
+
+.container {
+    height:90vh !important;
+}
+
+.custom_nav_items
+{
+    height:100%;
+}
+
+.custom_nav_items li 
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height:100%;
+}
+
+.custom_nav_container
+{
+    height:100%;
+}
+
+@media (min-width: 768px) 
+{
+    .navbar-collapse.collapse 
+    {
+        height:100% !important;
+    }
+}
+
+.OddsList {
+    display:flex;
+}
+
+.OddsButton
+{
+    height:5%;
+    width:5%;
+    background-color:green;
+    color:white;
+    text-align:center;
+    margin-right:3%;
+}
+
+.OddsButton:hover
+{
+    cursor:pointer;
+}
+
+.betslip
+{
+    position: fixed;
+    width: 30vh;
+    bottom: 0;
+    transition: height 1s;
+    z-index:2;
+    right:10vh;
+}
+
+.betslip.close 
+{
+    height: 0;
+}
+
+

@@ -1,0 +1,18 @@
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\bin\Debug\netcoreapp2.1\UnibetInterfaces.deps.json
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\bin\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\bin\Debug\netcoreapp2.1\UnibetInterfaces.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.pdb
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\bin\Debug\netcoreapp2.1\UnibetInterfaces.deps.json
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\bin\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\bin\Debug\netcoreapp2.1\UnibetInterfaces.pdb
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Unibet\UnibetInterfaces\obj\Debug\netcoreapp2.1\UnibetInterfaces.pdb

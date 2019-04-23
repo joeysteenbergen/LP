@@ -1,0 +1,32 @@
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetBLL.deps.json
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetBLL.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetBLL.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetDAL.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetDAL.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetInterfaces.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetBLL.deps.json
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetBLL.dll
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetBLL.pdb
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetDAL.dll
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetDAL.pdb
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\UnibetInterfaces.pdb
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.dll
+C:\Users\Gebruiker\Desktop\Unibet\UnibetBLL\obj\Debug\netcoreapp2.1\UnibetBLL.pdb

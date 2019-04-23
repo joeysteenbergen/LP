@@ -1,0 +1,42 @@
+﻿@model Unibet.Models.UserViewModel
+
+@{
+    ViewData["Title"] = "Account";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>UserViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BankBalance)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BankBalance)
+        </dd>
+    </dl>
+</div>
+<div>
+    @using (Html.BeginForm("Edit", "Login", FormMethod.Post))
+    {
+        <form>
+            <label>Amount: €<input type="number" name="amount" /></label>
+        </form>
+        <button type="submit" class="btn btn-primary">Add money</button>
+    }
+ </div>

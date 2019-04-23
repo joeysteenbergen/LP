@@ -1,0 +1,81 @@
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.deps.json
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.Views.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.Views.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorAssemblyInfo.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorAssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.TagHelpers.input.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.TagHelpers.output.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorCoreGenerate.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorTargetAssemblyInfo.cache
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorTargetAssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.Views.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetBLL.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetDAL.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetBLL.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetDAL.pdb
+C:\Users\Gebruiker\Desktop\Fontys\Semester 2\Individueel\Unibet\Unibet\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetInterfaces.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.deps.json
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.dll
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.Views.dll
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\Unibet.Views.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetBLL.dll
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetDAL.dll
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetInterfaces.dll
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetBLL.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetDAL.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\bin\Debug\netcoreapp2.1\UnibetInterfaces.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorAssemblyInfo.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorAssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.TagHelpers.input.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.TagHelpers.output.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorCoreGenerate.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutLogin.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorTargetAssemblyInfo.cache
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.RazorTargetAssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.Views.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.csproj.CopyComplete
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.dll
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Unibet.pdb
+C:\Users\Gebruiker\Desktop\Unibet\Unibet\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.g.cshtml.cs

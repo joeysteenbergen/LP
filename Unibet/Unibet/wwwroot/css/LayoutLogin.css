@@ -1,0 +1,23 @@
+﻿body {
+    height:100vh;
+}
+
+footer {
+    height:10vh;
+}
+
+#Login {
+    height:90vh;
+}
+
+#Login a:hover {
+    cursor: pointer;
+}
+
+#Register {
+    height:90vh;
+}
+
+#Register a:hover {
+    cursor:pointer;
+}

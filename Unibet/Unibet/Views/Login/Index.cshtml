@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<div id="Login" class="row" style="display:block;">
+    @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+    {
+        <form>
+            <div class="form-group">
+                <label for="UsernameLogin">Username</label>
+                <input type="text" class="form-control" id="UsernameLogin" name="UsernameLogin" aria-describedby="UsernameLogin" placeholder="Username">
+            </div>
+            <div class="form-group">
+                <label for="PasswordLogin">Password</label>
+                <input type="password" class="form-control" id="PasswordLogin" name="PasswordLogin" placeholder="Password">
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+    }
+    @Html.ValidationMessage("LogOnError")
+    <p>Don't have an account yet? <a class="btn btn-primary" onclick="showRegister();">Register</a></p>
+</div>
+<div id="Register" class="row" style="display:none;">
+    <a class="btn btn-primary" onclick="showLogin();">Back To Login</a>
+    @using (Html.BeginForm("Register", "Login", FormMethod.Post))
+    {
+        <form>
+            <div class="form-group">
+                <label for="UsernameRegister">Username</label>
+                <input type="text" class="form-control" id="UsernameRegister" name="UsernameRegister" placeholder="Username">
+            </div>
+            <div class="form-group">
+                <label for="PasswordRegister">Password</label>
+                <input type="password" class="form-control" id="PasswordRegister" name="PasswordRegister" placeholder="Password">
+            </div>
+            <div class="form-group">
+                <label for="EmailRegister">Email</label>
+                <input type="email" class="form-control" id="EmailRegister" name="EmailRegister" aria-describedby="emailHelp" placeholder="Email">
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Register</button>
+        </form>
+    }
+</div>
+<script>
+    function showRegister() {
+        document.getElementById("Login").style.display = "none";
+        document.getElementById("Register").style.display = "block";
+    }
+
+    function showLogin() {
+        document.getElementById("Register").style.display = "none";
+        document.getElementById("Login").style.display = "block";
+    }
+</script>
+
