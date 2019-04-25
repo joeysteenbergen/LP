@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Web;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using UnibetBLL;
@@ -13,6 +14,11 @@ namespace Unibet.Controllers
     public class LoginController : Controller
     {
         private readonly IUserContext _personContext;
+
+        const string SessionId = "_Id";
+        const string SessionUsername = "_Username";
+        const string SessionEmail = "_Email";
+        const string SessionBankBalance = "_BankBalance";
 
         public LoginController(IUserContext personContext)
         {
@@ -33,10 +39,10 @@ namespace Unibet.Controllers
             {
                 if(user.Username == UsernameLogin && user.Password == PasswordLogin)
                 {
-                    HttpContext.Session.SetString("Ïd", user.Id.ToString());
-                    HttpContext.Session.SetString("Username", user.Username);
-                    HttpContext.Session.SetString("Email", user.Email);
-                    HttpContext.Session.SetString("BankBalance", user.BankBalance.ToString());
+                    HttpContext.Session.SetInt32(SessionId, user.Id);
+                    HttpContext.Session.SetString(SessionUsername, user.Username);
+                    HttpContext.Session.SetString(SessionEmail, user.Email);
+                    HttpContext.Session.SetString(SessionBankBalance, user.BankBalance.ToString());
 
                     return RedirectToAction("Index", "Home");
                 }

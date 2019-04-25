@@ -1585,11 +1585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj",
       "projectName": "UnibetInterfaces",
-      "projectPath": "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetInterfaces\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

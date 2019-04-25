@@ -8,6 +8,7 @@ namespace UnibetDAL
     public interface IUserContext
     {
         void Add(IUser person);
+        void AddMoney(IUser person);
         void Edit(IUser person);
         IEnumerable<IUser> GetAll();
     }

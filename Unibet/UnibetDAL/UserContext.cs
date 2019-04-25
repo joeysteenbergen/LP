@@ -32,17 +32,30 @@ namespace UnibetDAL
             }
         }
 
+        public void AddMoney(IUser person)
+        {
+            _connection.SqlConnection.Open();
+            String query = "UPDATE Users SET BankBalance = @BankBalance WHERE UserID = @Id";
+
+            using (SqlCommand command = new SqlCommand(query, _connection.SqlConnection))
+            {
+                command.Parameters.AddWithValue("@Id", person.Id);
+                command.Parameters.AddWithValue("@BankBalance", person.BankBalance);
+
+                command.ExecuteNonQuery();
+            }
+        }
+
         public void Edit(IUser person)
         {
             _connection.SqlConnection.Open();
-            String query = "UPDATE Users SET Username = @Username, Email = @Email, BankBalance = @BankBalance WHERE ID = @Id";
+            String query = "UPDATE Users SET Username = @Username, Email = @Email, WHERE UserID = @Id";
 
             using (SqlCommand command = new SqlCommand(query, _connection.SqlConnection))
             {
                 command.Parameters.AddWithValue("@Id", person.Id);
                 command.Parameters.AddWithValue("@Username", person.Username);
                 command.Parameters.AddWithValue("@Email", person.Email);
-                command.Parameters.AddWithValue("@BankBalance", person.BankBalance);
 
                 command.ExecuteNonQuery();
             }
@@ -52,7 +65,7 @@ namespace UnibetDAL
         {
             _connection.SqlConnection.Open();
 
-            var cmd = new SqlCommand("SELECT * FROM dbo.Users", _connection.SqlConnection);
+            var cmd = new SqlCommand("SELECT * FROM Users", _connection.SqlConnection);
             var reader = cmd.ExecuteReader();
 
             var userRecords = new List<IUser>();
@@ -61,11 +74,11 @@ namespace UnibetDAL
             {
                 var user = new UserDto
                 {
-                    Id = (int)(reader["UserID"]),
+                    Id = Convert.ToInt32(reader["UserID"]),
                     Username = reader["Username"]?.ToString(),
                     Password = reader["Password"]?.ToString(),
                     Email = reader["Email"]?.ToString(),
-                    BankBalance = (decimal)reader["BankBalance"]
+                    BankBalance = Convert.ToDecimal(reader["BankBalance"])
                 };
 
                 userRecords.Add(user);

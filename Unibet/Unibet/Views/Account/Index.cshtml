@@ -4,39 +4,95 @@
     ViewData["Title"] = "Account";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
-<h2>Index</h2>
-
-<div>
-    <h4>UserViewModel</h4>
-    <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Username)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Username)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.Email)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Email)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.BankBalance)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.BankBalance)
-        </dd>
-    </dl>
+<div class="row">
+    <div class="col-md-12">
+        <h2>Account</h2>
+    </div>
 </div>
-<div>
-    @using (Html.BeginForm("Edit", "Login", FormMethod.Post))
-    {
-        <form>
-            <label>Amount: €<input type="number" name="amount" /></label>
-        </form>
-        <button type="submit" class="btn btn-primary">Add money</button>
-    }
+
+<div id="overview" class="row">
+    <div class="col-md-12">
+        <h4>User Information</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.BankBalance)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.BankBalance)
+            </dd>
+        </dl>
+    </div>
+</div>
+<div id="edit" class="row">
+    <div class="col-md-12">
+        <h4>Edit User</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+            <dd>
+                @Html.TextBoxFor(model => model.Username)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd>
+                @Html.TextBoxFor(model => model.Email)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.BankBalance)
+            </dt>
+            <dd>
+                @Html.TextBoxFor(model => model.BankBalance)
+            </dd>
+        </dl>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Add money</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                @using (Html.BeginForm("AddMoney", "Account", FormMethod.Post))
+                {
+                <form>
+                    <div style="display:none">
+                        <input asp-for="Id" type="number"/>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="amount" id="inlineRadio1" value="5">
+                        <label class="form-check-label" for="inlineRadio1">€5</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="amount" id="inlineRadio2" value="10">
+                        <label class="form-check-label" for="inlineRadio2">€10</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="amount" id="inlineRadio3" value="25">
+                        <label class="form-check-label" for="inlineRadio3">€25</label>
+                    </div>
+                    <button class="btn btn-primary" type="submit">Add Money</button>
+                </form>
+                }
+            </div>
+        </div>
+    </div>
  </div>

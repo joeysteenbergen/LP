@@ -1604,11 +1604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetDAL\\UnibetDAL.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetDAL\\UnibetDAL.csproj",
       "projectName": "UnibetDAL",
-      "projectPath": "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetDAL\\UnibetDAL.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetDAL\\UnibetDAL.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetDAL\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1627,8 +1627,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj": {
-              "projectPath": "C:\\Users\\Gebruiker\\Desktop\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj"
+            "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj": {
+              "projectPath": "C:\\Users\\Gebruiker\\Desktop\\Fontys\\Semester 2\\Individueel\\Git\\LP\\Unibet\\UnibetInterfaces\\UnibetInterfaces.csproj"
             }
           }
         }

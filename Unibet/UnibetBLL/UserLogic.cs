@@ -23,11 +23,22 @@ namespace UnibetBLL
             Repository.Add(person);
         }
 
-        public void Edit(int id, string username, string email, decimal amount)
+        public void Edit(int id, string username, string email)
         {
             var person = new User
-            {Id = id, Username = username, Email = email, BankBalance = amount };
+            {Id = id, Username = username, Email = email};
             Repository.Edit(person);
+        }
+
+        public void AddMoney(int id, decimal amount)
+        {
+            var person = new User
+            {
+                Id = id,
+                BankBalance = amount
+            };
+
+            Repository.AddMoney(person);
         }
 
         public IEnumerable<IUser> GetAllUsers()

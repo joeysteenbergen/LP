@@ -24,6 +24,11 @@ namespace UnibetDAL
             _context.Edit(person);
         }
 
+        public void AddMoney(IUser person)
+        {
+            _context.AddMoney(person);
+        }
+
         public IEnumerable<IUser> GetAll()
         {
             return _context.GetAll();
